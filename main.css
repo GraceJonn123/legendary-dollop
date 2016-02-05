@@ -296,7 +296,7 @@ table {
 .dropdown {
     position: relative;
     display: inline-block;
-    padding: 25px;
+    padding: 40px;
     color: red;
 }
 
@@ -313,17 +313,23 @@ table {
   color: black;
 }
 .dropdown-content a:hover{
-  color: white;
+  color: red;
 }
 .dropdown:hover .dropdown-content {
     display: inline-block;
 }
 body{
 	text-align: center;
-	font-size: 250%;
+	font-size: 280%;
 	padding: 25%;
 	background-image: url(stylesheet/assets/African-Sunset-Desktop-Wallpaper.jpg);
 	background-position: fixed;
 	background-repeat: no-repeat;
-	background-size: 100vw 120vh;
 	color: #a6a9a3;
+}
+.foot{
+  font-size: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: 30px;
+}
