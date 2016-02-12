@@ -334,13 +334,14 @@ body{
   padding-top: 150px;
   padding-bottom: 50px;
   height: 30px;
-  
+
 }
 .top, .foot {
   font-family: 'Indie Flower', cursive;
 }
 .bodi{
   font-family: 'Shadows Into Light', cursive;
+	background-image: url(stylesheet/assets/stylesheet/African-Sunset-Desktop-WAllpaper.jpg);
 }
 .yez {
   overflow: hidden;
@@ -358,5 +359,5 @@ h1{
   background-repeat: no-repeat;
 }
 h2{
-  
+
 }
