@@ -48,6 +48,7 @@ table {
 	border-spacing: 0;
 }
 .element-animation1{
+  font-size: 35%;
   animation: animationFrames ease 3s;
   animation-iteration-count: 1;
   transform-origin: 50% 50%;
@@ -321,8 +322,7 @@ table {
 }
 body{
 	text-align: center;
-	font-size: 500%;
-	padding: 25%;
+  padding-left: 30px;
 	background-image: url(stylesheet/assets/hynl.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
@@ -342,7 +342,7 @@ body{
 .bodi{
   font-family: 'Shadows Into Light', cursive;
 	background-position: bottom;
-  font-size:45px; 
+  font-size:; 
 }
 .yez {
   overflow: hidden;
@@ -351,14 +351,14 @@ body{
   border: 0;
 }
 h1{
-  padding-top: 100px;
+  padding-top: 70px;
 
 }
 .hi{
   background-image: url(stylesheet/assets/ted.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  width: 650px;
+  width: 200px;
   background-size: cover;
 }
 h2{
