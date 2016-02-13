@@ -341,7 +341,8 @@ body{
 }
 .bodi{
   font-family: 'Shadows Into Light', cursive;
-	background-image: url(stylesheet/assets/stylesheet/African-Sunset-Desktop-WAllpaper.jpg);
+	background-position: bottom;
+  font-size:45px; 
 }
 .yez {
   overflow: hidden;
@@ -354,9 +355,11 @@ h1{
 
 }
 .hi{
-  background-image: url(stylesheet/assets/highnlifted.jpg);
+  background-image: url(stylesheet/assets/ted.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
+  width: 650px;
+  background-size: cover;
 }
 h2{
 
