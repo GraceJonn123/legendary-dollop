@@ -48,7 +48,7 @@ table {
 	border-spacing: 0;
 }
 .element-animation1{
-  font-size: 35%;
+  font-size: 235%;
   animation: animationFrames ease 3s;
   animation-iteration-count: 1;
   transform-origin: 50% 50%;
