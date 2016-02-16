@@ -377,11 +377,25 @@ h2{
   padding-left:40%;
   height: 30px;
 }
-.chicken{
+.chick{
   background-image: url(stylesheet/assets/chicken.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 900px;
+  height: 1500px;
   width: 600px;
+  position: relative;
+}
+.h{
+  padding: 25px;
+  font-size: 350%;
+}
+.chicken{
+font-size: 200%;
+padding-left: 25px;
+}
+.tint{
+  height: 1500px;
+  width: 600px;
+  background:rgba(255,0,255,0.7);
 }
