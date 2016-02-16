@@ -449,4 +449,10 @@ padding-left: 45px;
 }
 .revenge{
 background-image: url(stylesheet/assets/img.php);
+background-size: contain;
+background-position:bottom;
+background-repeat: no-repeat;
+height: 300px;
+position: relative ;
+
 }
