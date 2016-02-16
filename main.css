@@ -323,7 +323,7 @@ table {
 .dropdown:hover .dropdown-content {
     display: inline-block;
 }
-body{
+.yez{
 	text-align: center;
   padding-left: 30px;
 	background-image: url(stylesheet/assets/hynl.jpg);
@@ -341,19 +341,16 @@ body{
 .top, .foot {
   font-family: 'Indie Flower', cursive;
 }
-.bodi p{
+.bodi{
   font-family: 'Shadows Into Light', cursive;
-	background-position: bottom;
   font-size:100%; 
-  width: 200px;
-  padding-left: 100%;
-  border-left-width: 30px;
+  width: 220px;
+  height: 2250px;
+  padding:25px;
   margin-left: 0;
-  padding-right: 30%;
   background-image: url(stylesheet/assets/ted.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  width: 200px;
   background-size: cover;
 }
 .yez {
@@ -366,9 +363,10 @@ h1{
   padding-top: 70px;
 
 }
-.hi{
-  ver;
+.bowdy{
+ font-family: 'Shadows Into Light', cursive;
+  font-size:100%; 
 }
 h2{
-
+  color: white;
 }
