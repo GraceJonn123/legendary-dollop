@@ -352,6 +352,7 @@ table {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
+  color:  #ADFF2F;
 }
 .yez {
   overflow: hidden;
@@ -368,7 +369,7 @@ h1{
   font-size:100%; 
 }
 h2{
-  color: white;
+  color:#9ACD32;
 }
 .footr{
   font-size: 70%;
