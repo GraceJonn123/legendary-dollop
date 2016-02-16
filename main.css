@@ -377,3 +377,11 @@ h2{
   padding-left:40%;
   height: 30px;
 }
+.chicken{
+  background-image: url(stylesheet/assets/chicken.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+  width: 600px;
+}
