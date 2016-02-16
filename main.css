@@ -425,4 +425,25 @@ padding-left: 45px;
   background-image: url(stylesheet/assets/crimson.jpg);
   background-attachment: scroll;
   background-repeat: no-repeat;
+  background-size: cover;
+  height:1285px;
+  color: white;
+  overflow-background-color: black;
+}
+.p{
+  width:700px;
+  text-align: center;
+  padding-left: 40%;
+  padding-top: 833px;
+}
+#tit{
+  font-size: 300%;
+  text-align: center;
+  padding: 100px;
+}
+.fot{
+  font-size: 100%;
+  padding-top:10px;
+  height: 20px;
+  padding-left: 80%;
 }
