@@ -370,3 +370,9 @@ h1{
 h2{
   color: white;
 }
+.footr{
+  font-size: 70%;
+  padding-top:20px;
+  padding-left:40%;
+  height: 30px;
+}
