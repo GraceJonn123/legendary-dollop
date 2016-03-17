@@ -472,6 +472,15 @@ background-attachment: fixed;
 height: 685px;
 color: white;
 text-align: center;
+}
 
+.words{
+  font-size: 130%;
+  padding-top: 20%;
+  width: 30%;
+  padding-left: 60%;
+}
 
+h3{
+  font-size: 170%;
 }
