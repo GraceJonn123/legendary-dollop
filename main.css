@@ -447,13 +447,14 @@ padding-left: 45px;
   height: 20px;
   padding-left: 80%;
 }
-.revenge{
-background-image: url(stylesheet/assets/revenge.jpg);
+.revenge{/*
+background-image: url(stylesheet/assets/revenge.jpg);*/
+background-color: black;
 background-size: contain;
 background-position:left;
 background-repeat: no-repeat;
 background-attachment: fixed;
-width: 1000px;
+width: 1350px;
 
 }
 .re{
@@ -461,4 +462,16 @@ width: 1000px;
   width: 800px;
   padding: 70px;
 font-size: 250%;
+}
+.widow{
+  background-image: url(stylesheet/assets/widow.jpg);
+background-size: cover;
+background-position:left;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height: 685px;
+color: white;
+text-align: center;
+
+
 }
