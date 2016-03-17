@@ -484,3 +484,21 @@ text-align: center;
 h3{
   font-size: 170%;
 }
+.crow{
+  background-image: url(stylesheet/assets/foxy.jpg);
+background-size: 500px 680px;
+background-position:left;
+background-repeat: no-repeat;
+background-color: black;
+background-attachment: fixed;
+height: 685px;
+color: white;
+text-align: center;
+
+}
+.foxy{
+padding-left: 40%;
+width: 50%;
+padding-top: 10%;
+font-size: 150%;
+}
