@@ -537,3 +537,31 @@ font-size: 170%;
   padding-left:70%;
   height: 30px;
 }
+.hare{
+  background-image: url(stylesheet/assets/tortoise.jpg);
+background-size:100% 100%;
+background-position:left;
+background-repeat: no-repeat;
+background-attachment: scroll;
+height: 905px;
+color: white;
+text-align: center;
+
+}
+.tort{
+/*padding-left: %;*/
+/*width: 50%;*/
+/*padding-top: 1%;*/
+text-align: center;
+padding: 10%;
+color: yellow;
+font-size: 170%;
+background-color:black;
+}
+.ftr{
+
+  font-size: 70%;
+  padding-top:30px;
+  /*padding-left:%;*/
+  height: 30px;
+}
