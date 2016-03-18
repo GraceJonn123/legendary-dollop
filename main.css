@@ -543,7 +543,7 @@ background-size:100% 100%;
 background-position:left;
 background-repeat: no-repeat;
 background-attachment: scroll;
-height: 905px;
+height: 705px;
 color: white;
 text-align: center;
 
@@ -563,5 +563,32 @@ background-color:black;
   font-size: 70%;
   padding-top:30px;
   /*padding-left:%;*/
+  height: 30px;
+}
+.hero{
+  background-image: url(stylesheet/assets/hero-cartoon.png);
+background-size:100% 100%;
+background-position:left;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-color: #129eee;
+height: 905px;
+color: black;
+text-align: center;
+}
+.her{
+/*padding-left: %;*/
+/*width: 50%;*/
+/*padding-top: 1%;*/
+text-align: center;
+padding: 10%;
+color: black;
+font-size: 170%;
+background-color:#129eee;
+}
+.futu{
+  font-size: 100%;
+  padding-top:30px;
+  /*padding-top:10%;*/
   height: 30px;
 }
