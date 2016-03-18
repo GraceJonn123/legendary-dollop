@@ -476,7 +476,7 @@ text-align: center;
 
 .words{
   font-size: 130%;
-  padding-top: 20%;
+  padding-top: 10%;
   width: 30%;
   padding-left: 60%;
 }
@@ -499,6 +499,35 @@ text-align: center;
 .foxy{
 padding-left: 40%;
 width: 50%;
-padding-top: 10%;
+padding-top: 7%;
 font-size: 150%;
+}
+.futr{
+  font-size: 130%;
+  padding-top:50px;
+  padding-left:30%;
+  height: 30px;
+}
+.fotr{
+  font-size: 120%;
+  padding-top:20px;
+  padding-left:50%;
+  height: 30px;
+}
+.grass{
+  background-image: url(stylesheet/assets/grasshopper.jpg);
+background-size:contain;
+background-position:left;
+background-repeat: no-repeat;
+background-color: black;
+background-attachment: fixed;
+height: 685px;
+color: white;
+text-align: center;
+}
+.anty{
+padding-left: 75%;
+width: 20%;
+padding-top: 7%;
+font-size: 170%;
 }
